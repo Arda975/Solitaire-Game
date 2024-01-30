@@ -1,2 +1,1 @@
-# Solitaire-Game
-I made a Solitaire Game in java.
+Integrate the Enigma file into your java project document and then use it.
